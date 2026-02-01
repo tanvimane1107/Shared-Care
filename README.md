@@ -1,7 +1,6 @@
-# Shared-Care
-# Asha Care: Shared Healthcare Circle 💊
+# Shared-Care: Shared Healthcare Circle 💊
 
-**Asha Care** is a humane, shared medication management platform designed to bridge the gap between caregivers, seniors, and local pharmacists. 
+**Shared Care** is a humane, shared medication management platform designed to bridge the gap between caregivers, seniors, and local pharmacists. 
 
 ## 🌟 Key Features
 - **Shared Care Circle:** Seamlessly switch between Caregiver (Asha) and Senior (Dad) views.
